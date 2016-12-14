@@ -2,7 +2,7 @@ class Item{
   //Fill in the item class below this comment.
   constructor(n,p,s){
 this.name=n
-ths.price=p
+this.price=p
 this.shipping=a
 }
 }

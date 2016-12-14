@@ -9,5 +9,10 @@ this.itemQuantity=[];
 addItem(i,q)
 this.itemList.unshift(i);
 this.itemQuantity.unshift(q);
+
 totalCart()
 var total=0
+for (a=0; a<i;a++){
+var total= var total+ this.itemList[i].price*this.itemQuantity[q];
+}
+}
