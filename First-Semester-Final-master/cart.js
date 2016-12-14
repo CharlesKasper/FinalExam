@@ -12,7 +12,7 @@ this.itemQuantity.unshift(q);
 
 totalCart()
 var total=0
-for (a=0; a<i;a++){
-var total= var total+ this.itemList[i].price*this.itemQuantity[q];
+for (a=0; a<this.itemList[].length;a++){
+var total= var total+ this.itemList[a].price*this.itemQuantity[a];
 }
 }
